@@ -9,7 +9,7 @@ h3 {
 }
 
 .heading {
-  background-image: url("/building.png");
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   text-align: center;
   color: white;
 }
@@ -20,6 +20,10 @@ h3 {
 
 .heading h2 {
   font-size: 23px;
+}
+
+.Content {
+  text-align: center;
 }
 
 .btn-nav {
@@ -35,6 +39,14 @@ h3 {
 
 .supporting {
   text-align: center;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
 }
 
 .supporting-item p {
